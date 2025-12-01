@@ -14,6 +14,8 @@ I have created a 4 part case (I know very complex) for the astetics and also to 
 <img width="741" height="804" alt="image" src="https://github.com/user-attachments/assets/de996fc5-0aa4-4344-93c1-d6920e5a2cb8" />
 <img width="1087" height="765" alt="image" src="https://github.com/user-attachments/assets/ff680684-812d-426a-88f7-a60283587cc9" />
 <img width="1324" height="1151" alt="image" src="https://github.com/user-attachments/assets/72dbbce8-fd0b-4dad-8f53-55de9508ad48" />
+<img width="1017" height="917" alt="image" src="https://github.com/user-attachments/assets/97173a9f-99c1-43ac-bef9-e82c2e6252c7" />
+
 
 # BOM
 
